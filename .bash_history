@@ -1,5 +1,5 @@
 ls
 cd 
 ls
-cd Desktop
+cd
 ls
